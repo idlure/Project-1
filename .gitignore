@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Kubernetes
+*.yaml~
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Docker
+*.tar
+
